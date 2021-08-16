@@ -21,10 +21,18 @@ Flashcard operations:
 - delete a flashcard,
 - edit a flashcard.
 
+You cannot change the order of flashcards.
+
 ## Learning
+
+Learning modes:
+1. learn not memorized flashcards only
+2. learn all
+3. random quiz
 
 ## Backlog
 
+- repetitions
 - flashcard databases
 - authorization
 - private databases
