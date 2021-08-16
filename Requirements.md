@@ -1,4 +1,4 @@
-# Paula - Personal Learning Assistant - Requirement Specification
+# Paula Wicher - Personal Learning Assistant - Requirement Specification
 
 The application is a set of learning items (flashcards).
 
